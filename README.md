@@ -1,3 +1,4 @@
+
 # Dart exercises: week 2 starter
 
 This is the starter code for week 2 of Mobile Application Development. It has two exercises: a bank account (Exercise 1) and a grade book (Exercise 2).
@@ -37,8 +38,6 @@ On the untouched starter, 11 tests pass and 9 fail. Nine of the passing tests ch
 
 ![The terminal after dart test and dart run](screenshot.png)
 
-Replace this picture with your own. Run `dart test` and `dart run`, take a screenshot of your terminal, name it `screenshot.png`, and put it in the top folder of this repository, next to this README.
-
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I used AI to understand Dart concepts, troubleshoot analyzer errors, and get guidance with the assignment.
